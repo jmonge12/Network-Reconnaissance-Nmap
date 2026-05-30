@@ -38,7 +38,15 @@ sudo nmap -sS -sV -sC -O -v 192.168.100.1
 
 ![Resultados del Escaneo de Puertos](https://github.com/jmonge12/Network-Reconnaissance-Nmap/blob/89fb60d23b30f1c0f50415c2ba8a18694a925d1a/resultados%20del%20escaneo%20de%20puertos.png)
 
+El escaneo logró extraer mucha información de la interfaz web del router de forma pública:
 
+Detectó que el fabricante real es Huawei Technologies.
+
+Extrajo los datos internos del certificado SSL (válido hasta 2027).
+
+Permitió a Nmap adivinar con un 99% de precisión que el sistema operativo interno es Linux.
+
+Estos comando sirven para:
 -sS: Escaneo TCP SYN sigiloso.
 
 -sV: Detección activa de versiones en los servicios identificados.
