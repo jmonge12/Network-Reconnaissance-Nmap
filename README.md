@@ -16,7 +16,7 @@ Para identificar qué dispositivos se encontraban encendidos en el segmento de r
 nmap -sn 192.168.100.14/24
 ````
 
-![Barrido de Red con Nmap](Captura_de_pantalla_2026-05-30_134013.png)
+![Barrido de Red con Nmap]([Captura_de_pantalla_2026-05-30_134013.png](https://github.com/jmonge12/Network-Reconnaissance-Nmap/blob/8c3490a2b6ca61a2e3af189faa8b799651ba9104/barrido%20de%20red%20con%20nmap.png))
 
 
 Hallazgos: El comando detectó 3 hosts activos en la red:
