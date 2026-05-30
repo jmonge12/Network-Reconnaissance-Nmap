@@ -16,6 +16,7 @@ Para identificar qué dispositivos se encontraban encendidos en el segmento de r
 nmap -sn 192.168.100.14/24
 ````
 
+![Barrido de Red con Nmap](Captura_de_pantalla_2026-05-30_134013.png)
 
 
 Hallazgos: El comando detectó 3 hosts activos en la red:
@@ -35,6 +36,7 @@ Se seleccionó como objetivo la dirección IP del router principal (`192.168.100
 sudo nmap -sS -sV -sC -O -v 192.168.100.1
 ````
 
+![Resultados del Escaneo de Puertos](Captura_de_pantalla_2026-05-30_134623.jpg)
 
 
 -sS: Escaneo TCP SYN sigiloso.
