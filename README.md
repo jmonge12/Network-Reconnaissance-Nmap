@@ -47,6 +47,7 @@ Extrajo los datos internos del certificado SSL (válido hasta 2027).
 Permitió a Nmap adivinar con un 99% de precisión que el sistema operativo interno es Linux.
 
 Estos comando sirven para:
+````
 -sS: Escaneo TCP SYN sigiloso.
 
 -sV: Detección activa de versiones en los servicios identificados.
@@ -54,7 +55,7 @@ Estos comando sirven para:
 -sC: Ejecución de scripts predeterminados para enumerar fallas de seguridad y certificados.
 
 -O: Intento de identificación del Sistema Operativo.
-
+````
 ---
 
 ### Información de Infraestructura Recolectada:
