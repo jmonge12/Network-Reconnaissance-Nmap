@@ -40,11 +40,11 @@ sudo nmap -sS -sV -sC -O -v 192.168.100.1
 
 El escaneo logró extraer mucha información de la interfaz web del router de forma pública:
 
-Detectó que el fabricante real es Huawei Technologies.
+- Detectó que el fabricante real es Huawei Technologies.
 
-Extrajo los datos internos del certificado SSL (válido hasta 2027).
+- Extrajo los datos internos del certificado SSL (válido hasta 2027).
 
-Permitió a Nmap adivinar con un 99% de precisión que el sistema operativo interno es Linux.
+- Permitió a Nmap adivinar con un 99% de precisión que el sistema operativo interno es Linux.
 
 Estos comando sirven para:
 ````
