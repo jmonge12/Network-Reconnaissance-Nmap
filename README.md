@@ -47,7 +47,7 @@ sudo nmap -sS -sV -sC -O -v 192.168.100.1
 
 ---
 
-###Información de Infraestructura Recolectada:
+### Información de Infraestructura Recolectada:
 Dirección MAC: 78:57:73:54:02:D0 (Huawei Technologies)
 
 Predicción del Sistema Operativo: Núcleo Linux (versiones estimadas entre Linux 2.6.32 - 3.13 o superior con un 99% de precisión).
@@ -56,7 +56,7 @@ Distancia de Red: 1 salto de red (Hop).
 
 ---
 
-###Recomendaciones de Mitigación (Blue Team / Defensa)
+### Recomendaciones de Mitigación (Blue Team / Defensa)
 Desactivar UPnP: Se recomienda deshabilitar el servicio UPnP en el puerto 49152 si no es estrictamente necesario, disminuyendo la superficie de ataque frente a inyecciones de red o apertura automática de puertos maliciosos.
 
 Ocultamiento de Banners: Restringir la cantidad de metadatos expuestos en el puerto de la interfaz web (80) para evitar que atacantes externos automaticen búsquedas de exploits orientados a hardware específico de Huawei o Linksys.
