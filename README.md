@@ -36,7 +36,7 @@ Se seleccionó como objetivo la dirección IP del router principal (`192.168.100
 sudo nmap -sS -sV -sC -O -v 192.168.100.1
 ````
 
-![Resultados del Escaneo de Puertos](Captura_de_pantalla_2026-05-30_134623.jpg)
+![Resultados del Escaneo de Puertos](https://github.com/jmonge12/Network-Reconnaissance-Nmap/blob/89fb60d23b30f1c0f50415c2ba8a18694a925d1a/resultados%20del%20escaneo%20de%20puertos.png)
 
 
 -sS: Escaneo TCP SYN sigiloso.
