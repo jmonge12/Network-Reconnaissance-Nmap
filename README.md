@@ -59,11 +59,11 @@ Estos comando sirven para:
 ---
 
 ### Información de Infraestructura Recolectada:
-Dirección MAC: 78:57:73:54:02:D0 (Huawei Technologies)
+- Dirección MAC: 78:57:73:54:02:D0 (Huawei Technologies)
 
-Predicción del Sistema Operativo: Núcleo Linux (versiones estimadas entre Linux 2.6.32 - 3.13 o superior con un 99% de precisión).
+- Predicción del Sistema Operativo: Núcleo Linux (versiones estimadas entre Linux 2.6.32 - 3.13 o superior con un 99% de precisión).
 
-Distancia de Red: 1 salto de red (Hop).
+- Distancia de Red: 1 salto de red (Hop).
 
 ---
 
